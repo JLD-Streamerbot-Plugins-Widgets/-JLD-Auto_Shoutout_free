@@ -1,64 +1,79 @@
-Just Lady D - Streamers Stuff
+# Just Lady D - Streamers Stuff
 
-Titel: 		    [JLD] Auto Shout-out (Free)
-Naam:		    [JLD] Auto_Shoutout_free
-Gemaakt door:	Just_Lady_D a.k.a. Didi La Raye
-Versie:		    1.0.2
-Omschrijving:	[JLD] Wanneer je in Twitch een raid ontvangt en/of een follow dan stuurt deze functie automatisch een SO uit naar de raider en/of de volger!
-Website:	    https://www.ladyd.eu
+**Titel:**
+[JLD] Auto Shout-out (Free)
+
+**Naam:**
+[JLD] Auto_Shoutout_free
+
+**Gemaakt door:**
+Just_Lady_D a.k.a. Didi La Raye
+
+**Versie:**
+1.0.2
+
+**Omschrijving:**
+[JLD] Wanneer je in Twitch een raid ontvangt en/of een follow dan stuurt deze functie automatisch een SO uit naar de raider en/of de volger!
+
+**Website:**
+https://www.ladyd.eu
 
 -------------------------------------------------------------------------------------------------------------------------------------
-Inhoud:
+**Inhoud:**
 
-JLD_Auto_Shoutout_free
-README.md
+- JLD_Auto_Shoutout_free
+- README.md
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
-Support bij deze plugin of iets anders met jouw stream? Vanaf een Tier 2 Subscription op www.twitch.tv/just_lady_d kan je voor deze plugin ook support ontvangen van Didi zelf. Heb je vragen over deze plugin? Stel deze dan via haar website www.ladyd.eu of vraag advies tijdens een van haar livestreams op Twitch.
+*Support bij deze plugin of iets anders met jouw stream? Vanaf een Tier 2 Subscription op www.twitch.tv/just_lady_d kan je voor deze plugin ook support ontvangen van Didi zelf. Heb je vragen over deze plugin? Stel deze dan via haar website www.ladyd.eu of vraag advies tijdens een van haar livestreams op Twitch.*
 
 
-Omschrijving:
+**Omschrijving:**
 
 Wanneer je in Twitch een raid ontvangt en/of een follow dan stuurt deze functie automatisch een SO uit naar de raider en/of de volger!
 
 
-INSTALLATIE EN CONFIGURATIE BIJ EERSTE KEER:
+## **INSTALLATIE EN CONFIGURATIE BIJ EERSTE KEER:**
 
-In Streamer.bot
+**In Streamer.bot**
+
 In streamer.bot druk je op de knop “Import” aan de linker bovenzijde. Je kan nu het bestandje “JLD_Auto_Shoutout_free” slepen naar het “Import String” veld. 
 Hiermee importeer je 1 Actie voor de Auto Shout-Out functie. Klik vervolgens op Import om de plugin in te laden.
 
-Configuratie Plugin
+**Configuratie Plugin**
+
 Voor deze plugin is als het goed is gegaan géén verdere configuratie nodig, tenzij Streamer.Bot een andere opmerking had tijdens het importeren.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-INSTALLATIE EN CONFIGURATIE BIJ UPDATE:
+## **INSTALLATIE EN CONFIGURATIE BIJ UPDATE:**
 
-In Streamer.bot
+**In Streamer.bot**
+
 In streamer.bot druk je op de knop “Import” aan de linker bovenzijde. Je kan nu het bestandje “JLD_Auto_Shoutout_free” slepen naar het “Import String” veld. 
 Hiermee importeer je 1 Actie voor de Auto Shout-Out functie. Klik vervolgens op Import om de plugin in te laden.
 
-Configuratie Plugin
+**Configuratie Plugin**
+
 Voor deze plugin is als het goed is gegaan géén verdere configuratie nodig, tenzij Streamer.Bot een andere opmerking had tijdens het importeren.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-Changelog:
+## Changelog:
 
-Versie 1.0.2
+**Versie 1.0.2**
 
-Aangepast
+*Aangepast*
 - Werkwijze in opdeling triggers
 
-Versie 1.0.1
+**Versie 1.0.1**
 
-Toevoegen
+*Toevoegen*
 - Wanneer je een follow ontvangt dan krijgt de volger een so (Shout-Out)
 
-Versie 1.0.0
+**Versie 1.0.0**
 
-Release van deze functie in het Nederlands voor streamer.bot
+- Release van deze functie in het Nederlands voor streamer.bot
 
