@@ -1,5 +1,7 @@
 # Just Lady D - Streamers Stuff
 
+![Auto Shout-out](https://storage.ko-fi.com/cdn/useruploads/post/cac8aee2-64a4-4d26-bb31-9d1f5c1a41df_autoshoutout_productitem.png)
+
 **Titel:**
 [JLD] Auto Shout-out (Free)
 
